@@ -24,7 +24,7 @@ I am a final year mechanical engineering student at LD College of Engineering, A
 
 ## Let's Connect!
 
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/sagar-vaishnav-7148b2240) or check out my projects on [GitHub](your-github-url).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sagar-vaishnav-7148b2240) or check out my projects on [GitHub](your-github-url).
 
 Thank you for visiting my profile! 🚀 👋 
 
